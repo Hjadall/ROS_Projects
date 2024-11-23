@@ -232,7 +232,6 @@ Launches the `drive_bot` and `process_image` nodes:
     - Check Camera data: `rostopic echo /my_robot/camera/image_raw`
 
 ---
-![Video GIF](Go_chase_it/src/Go_chase_it_Video.mp4)
 
 <video width="640" height="360" controls>
   <source src="https://github.com/Hjadall/ROS_Projects/blob/main/Go_chase_it/src/Go_chase_it_Video.mp4" type="video/mp4">
