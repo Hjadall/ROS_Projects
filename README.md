@@ -233,10 +233,8 @@ Launches the `drive_bot` and `process_image` nodes:
 
 ---
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/Hjadall/ROS_Projects/blob/main/Go_chase_it/src/Go_chase_it_Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Description](Go_chase_it/Go_chase_it_Video-ezgif.com-video-to-gif-converter.gif)
+
 
 
 ## Conclusion
