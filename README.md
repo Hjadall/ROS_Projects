@@ -318,9 +318,3 @@ Launches the `drive_bot` and `process_image` nodes:
 ---
 
 ![Description](Go_chase_it/Go_chase_it_Video-ezgif.com-video-to-gif-converter.gif)
-
-
-
-## Conclusion
-
-By completing this project, you will have successfully developed a ball-chasing robot capable of detecting and moving toward a white ball in a simulated environment.
