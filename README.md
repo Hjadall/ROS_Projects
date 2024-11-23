@@ -232,7 +232,8 @@ Launches the `drive_bot` and `process_image` nodes:
     - Check Camera data: `rostopic echo /my_robot/camera/image_raw`
 
 ---
-[Watch the video](Go_chase_it/src/Go_chase_it_Video.mp4)
+![Video GIF](Go_chase_it/src/Go_chase_it_Video.mp4)
+
 ## Conclusion
 
 By completing this project, you will have successfully developed a ball-chasing robot capable of detecting and moving toward a white ball in a simulated environment.
