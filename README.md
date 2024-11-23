@@ -234,6 +234,12 @@ Launches the `drive_bot` and `process_image` nodes:
 ---
 ![Video GIF](Go_chase_it/src/Go_chase_it_Video.mp4)
 
+<video width="640" height="360" controls>
+  <source src="https://github.com/Hjadall/ROS_Projects/blob/main/Go_chase_it/src/Go_chase_it_Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Conclusion
 
 By completing this project, you will have successfully developed a ball-chasing robot capable of detecting and moving toward a white ball in a simulated environment.
