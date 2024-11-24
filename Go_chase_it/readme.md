@@ -317,5 +317,5 @@ Launches the `drive_bot` and `process_image` nodes:
 
 ---
 
-![Description](Go_chase_it/Go_chase_it_Video-ezgif.com-video-to-gif-converter.gif)
+![Description](Go_chase_it_Video-ezgif.com-video-to-gif-converter.gif)
 
